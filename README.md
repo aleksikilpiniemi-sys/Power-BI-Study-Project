@@ -15,6 +15,6 @@ This repository demonstrates my foundational skills in data analytics, modeling,
 ## 📁 Repository Contents
 * `Power-BI-Study-Project.pbix`: The source Power BI Desktop file containing the data model and report.
 * `README.md`: Project overview and technical documentation.
-
+* `Tehtävä_3_2_Superstore.xlsx`: The raw dataset used as the starting point for the project.
 ## 🎯 Project Goal
 The goal of this project was to practice professional BI-development standards: ensuring data integrity, building a sustainable data model, and providing clear visual answers to business questions.
